@@ -1,4 +1,4 @@
-### Hi there 👋
+### SKKU stat
 
 <!--
 **dykim-stat/dykim-stat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
