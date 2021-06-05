@@ -1,5 +1,6 @@
 ### SKKU statistics
 
+https://bit.ly/3uSZkiq <- 저에 대해 궁금하시다면 click!
 <!--
 **dykim-stat/dykim-stat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
